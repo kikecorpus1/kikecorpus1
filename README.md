@@ -1,4 +1,4 @@
-![](./img/banner.png)
+![](./banner.png)
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
   <a href="https://wa.me/3105261024" target="_blank">
