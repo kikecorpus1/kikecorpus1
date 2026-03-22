@@ -67,7 +67,7 @@ Sistema backend para la administración de bodegas distribuidas en múltiples ci
 - Validaciones con Bean Validation y manejo centralizado de errores con `@ControllerAdvice`
 - 14 entidades relacionadas con constraints e integridad referencial en MySQL
 
-[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kikecorpus)
+[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kikecorpus1/GestionBodegas_SpringBoot) 
 
 ---
 
@@ -83,7 +83,7 @@ Aplicación Java que cubre el ciclo completo de ventas de una tienda: inventario
 - Validaciones robustas: formatos de correo, integridad referencial, rangos de menú y fechas
 - Exportación de reportes a `.txt` con apertura automática del archivo
 
-[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kikecorpus)
+[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/kikecorpus](https://github.com/kikecorpus1/GestionVentaDeCelulares_Java))
 
 ---
 
@@ -99,7 +99,7 @@ Base de datos relacional que automatiza las operaciones de una cadena de pizzer�
 - Solución documentada al Error 1442 (tabla mutante) mediante procedimientos en lugar de triggers anidados
 - 15 entidades con herencia modelada en MySQL (Persona → Cliente/Vendedor/Repartidor)
 
-[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kikecorpus)
+[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kikecorpus1/PizzeriaDonPiccolo_MYSQL)
 
 ---
 
@@ -114,7 +114,7 @@ Base de datos NoSQL para la gestión de escuelas de música distribuidas en Colo
 - Transacciones ACID multi-documento para flujos de inscripción
 - Control de acceso granular con roles de MongoDB
 
-[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kikecorpus)
+[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kikecorpus1/CampusMusic_MongoDB)
 
 ---
 
