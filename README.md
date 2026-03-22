@@ -5,7 +5,6 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3105261024)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-corpus-9a1b9a329/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enrique.corpus.5004@hotmail.com)
 [![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://kikecorpus1.github.io/Portafolio/)
 
 </div>
@@ -147,7 +146,6 @@ Base de datos NoSQL para la gestión de escuelas de música distribuidas en Colo
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3105261024)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-corpus-9a1b9a329/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enrique.corpus.5004@hotmail.com)
 [![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://kikecorpus1.github.io/Portafolio/)
 
 </div>
